@@ -1,7 +1,9 @@
 "use strict";
 
-const HtmlStatsPlugin = require("./lib/HtmlStatsPlugin");
+const htmlSnippetGenerator = require("./lib/htmlSnippetGenerator"),
+    iconsGenerator = require("./lib/iconsGenerator");
 
 module.exports = {
-    HtmlStatsPlugin
+    htmlSnippetGenerator,
+    iconsGenerator
 };
