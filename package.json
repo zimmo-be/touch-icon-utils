@@ -1,0 +1,29 @@
+{
+  "name": "touch-icon-utils",
+  "version": "1.0.0",
+  "description": "Generate icons to all commonly accepted sizes and generate a proper HTML snippet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimmo-be/touch-icon-utils.git"
+  },
+  "keywords": [
+    "touch",
+    "icon",
+    "html",
+    "mobile",
+    "apple"
+  ],
+  "author": "mathieu@zimmo.be",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zimmo-be/touch-icon-utils/issues"
+  },
+  "homepage": "https://github.com/zimmo-be/touch-icon-utils#readme",
+  "dependencies": {
+    "sharp": "^0.20.6"
+  }
+}
