@@ -1,6 +1,6 @@
 {
   "name": "touch-icon-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate icons to all commonly accepted sizes and generate a proper HTML snippet",
   "main": "index.js",
   "scripts": {
