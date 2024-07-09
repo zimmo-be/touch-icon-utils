@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/zimmo-be/touch-icon-utils#readme",
   "dependencies": {
-    "sharp": "^0.33.4"
+    "jimp": "^0.22.12"
   }
 }
